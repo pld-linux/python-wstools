@@ -8,7 +8,7 @@ Summary:	WSDL parsing services package for Web Services for Python 2
 Summary(pl.UTF-8):	Pakiet usług analizy WSDL dla usług WWW dla Pythona 2
 Name:		python-wstools
 Version:	0.4.8
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/wstools/
