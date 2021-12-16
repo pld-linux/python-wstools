@@ -19,7 +19,7 @@ URL:		https://pypi.org/project/wstools/
 BuildRequires:	python-modules >= 1:2.7
 BuildRequires:	python-pbr >= 1.10
 BuildRequires:	python-pytest-runner
-BuildRequires:	python-setuptools >= 17.1
+BuildRequires:	python-setuptools >= 1:17.1
 %if %{with tests}
 BuildRequires:	python-py >= 1.4
 BuildRequires:	python-pytest >= 2.9.1
@@ -30,7 +30,7 @@ BuildRequires:	python-six
 BuildRequires:	python3-modules >= 1:3.4
 BuildRequires:	python3-pbr >= 1.10
 BuildRequires:	python3-pytest-runner
-BuildRequires:	python3-setuptools >= 17.1
+BuildRequires:	python3-setuptools >= 1:17.1
 %if %{with tests}
 BuildRequires:	python3-py >= 1.4
 BuildRequires:	python3-pytest >= 2.9.1
